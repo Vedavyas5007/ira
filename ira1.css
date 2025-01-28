@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.div1 img{
+    width: 300px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    margin-top: -60px;
+}
+.div2 img{
+    width: 70px;
+    border-radius: 35px;
+}
+.div2 h1{
+    font-size: 80px;
+}
+.div3{
+    margin-top: -60px;
+}
+.div4 ul li{
+    text-align: left;
+}
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 40px;
+    background-color: orangered;
+    text-align: center; 
+    cursor: pointer;
+}
+

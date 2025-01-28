@@ -1,0 +1,69 @@
+.container{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+} 
+
+.div2{
+
+    width: 340px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    margin-top: -13px;
+
+}
+.div21, .div22{
+
+    display: flex;
+    align-items: center;
+    
+}
+.div21 svg{
+    font-size: large;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.div21 p{
+    font-size: large;
+}
+.div21 p span{
+    font-size: x-large;
+}
+.div22{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+.div22 div p{
+    margin-left: 10px;
+
+}
+.div22 div p{
+    margin-left: 20px;
+
+}
+
+.div222{
+    display: flex;
+}
+.div222 p{
+    cursor: pointer;
+}
+
+.div4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 40px;
+    background-color: orangered;
+    text-align: center; 
+}
+
+

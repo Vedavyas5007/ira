@@ -1,0 +1,142 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.container1{
+    display: flex;
+    width: 500px;
+    align-items: center;
+    justify-content: space-between;
+}
+.container1 div{
+    padding: 10px;
+}
+.divA{
+    display: flex;
+}
+.container2{
+    width: 500px;
+    height: 15vh;
+    border: .2px solid orangered;
+}
+.div1{
+    display: flex;
+    align-items: center;
+}
+.div1 img{
+    width: 30px;
+    border-radius: 15px;
+}
+.div1 h1{
+    font-size: 40px;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    border: .2px solid orangered;
+    border-radius: 10px;
+    height: 40vh;
+}
+.container3 .div1{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-bottom: .2px solid orangered;
+}
+.container3 .div2{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-bottom: .2px solid orangered;
+}
+.container3 .div3{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 10px;
+    border-bottom: .2px solid orangered;
+}
+.div3 input{
+    width: 200px;
+    height: 40px;
+    border: none;
+}
+.div3 p{
+    font-size: small;
+    padding: 5px;
+    color: blue;
+}
+.div3 svg{
+    width: 30px;
+    height: 30px;
+}
+
+.container3 div img{
+    width: 30px;
+    height: 30px;
+}
+.container3 .div1 input{
+    width: 300px;
+    height: 40px;
+    border: none;
+}
+.container3 .div2 input{
+    width: 300px;
+    height: 40px;
+    border: none;
+    
+}
+.container3 .div4{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.div41{
+    width: 80%;
+    height: 5vh;
+    border: .5px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.div411{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+.p1{
+    margin-left: -30px;
+    margin-top: 25px;
+}
+.p2{
+    margin-left: -30px;
+    margin-top: -20px;
+}
+.div412 img{
+    padding: 20px;
+}
+.div42{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 5vh;
+    background-color: orangered;
+    text-align: center;
+    margin-top: 20px;
+}
